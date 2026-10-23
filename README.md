@@ -26,6 +26,10 @@
 
 </div>
 
+<p align="center">
+  <img src="docs/images/preview.png" alt="SlopSquat CLI Terminal Preview" width="95%">
+</p>
+
 ---
 
 ## 🚨 致命盲区：为什么传统安全工具全部失效？
