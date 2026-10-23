@@ -1,0 +1,12 @@
+{
+  "name": "sample-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "ai-hallucinated-router-guard-xyz": "^1.0.0"
+  },
+  "devDependencies": {
+    "vue": "^3.4.0"
+  }
+}
