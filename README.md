@@ -13,8 +13,8 @@
                 |_|             |_|          
 ```
 
-**首款专门防御大模型依赖包幻觉投毒（AI Package Hallucination & Slopsquatting）的开源安全嗅探工具。**  
-*The first open-source scanner against AI Package Hallucination and Slopsquatting supply chain attacks.*
+**面向 AI 辅助编程时代的依赖包幻觉投毒（Slopsquatting）轻量级开源嗅探工具。**  
+*A lightweight, zero-dependency scanner against AI Package Hallucination and Slopsquatting supply chain attacks.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org/)

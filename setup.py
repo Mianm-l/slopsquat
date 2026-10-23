@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="slopsquat",
     version="0.1.0",
-    description="The first open-source detector against AI Package Hallucination & Slopsquatting attacks.",
+    description="A lightweight scanner against AI Package Hallucination & Slopsquatting supply chain risks.",
     long_description=open("README.md", "r", encoding="utf-8").read() if open("README.md", "r", encoding="utf-8") else "",
     long_description_content_type="text/markdown",
     author="Mianm-l",
