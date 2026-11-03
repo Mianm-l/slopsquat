@@ -1,3 +1,17 @@
+<!-- REPO_CRAFT_BANNER_BEGIN -->
+<p align="center">
+  <img src="assets/hero-banner.png" alt="SlopSquat Banner" width="100%" />
+</p>
+
+<p align="center">
+  [![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square)](#) [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](#) [![Pure Local](https://img.shields.io/badge/Privacy-100%25_Local-10B981?style=flat-square)](#) [![Zero Config](https://img.shields.io/badge/Setup-Zero_Config-8B5CF6?style=flat-square)](#) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](#)
+</p>
+
+<p align="center">
+  <strong>面向 AI 编程时代的第三方依赖包幻觉投毒（Slopsquatting）开源嗅探器</strong>
+</p>
+<!-- REPO_CRAFT_BANNER_END -->
+
 # 🛡️ SlopSquat
 
 <div align="center">
